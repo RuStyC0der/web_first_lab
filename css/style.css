@@ -1,0 +1,39 @@
+* {}
+
+h1 {
+  color: red;
+  text-align: center;
+}
+
+
+.center {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cls1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 10px solid blue;
+
+}
+
+video {
+  border: 1px solid black;
+  width: 640px;
+  height: 360px;
+  /* display: block;
+  margin-left: auto;
+  margin-right: auto; */
+}
+
+button {
+  color: blue;
+}
+
+table, td {
+  border: 1px solid black;
+}
